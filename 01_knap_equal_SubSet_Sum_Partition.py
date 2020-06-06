@@ -6,7 +6,8 @@ so, idea is find the sum of all elements, if sum is even i.e two subsets can be 
 after that we will check does a subset exist with half the sum of total sum, hence this will bring down the solution to 
 subsetsum problem. If subset exist with half the orininal sum and then other subset also exist with 
 half the original sum then it return true else false
-Leetcode Link= https://leetcode.com/problems/partition-equal-subset-sum/
+Leetcode 416. Partition Equal Subset Sum
+Link= https://leetcode.com/problems/partition-equal-subset-sum/
 """
 
 def subsetSum1(arr,sum1):
